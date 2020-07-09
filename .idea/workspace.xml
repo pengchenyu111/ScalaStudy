@@ -2,18 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="46ce95a8-b8d8-45cf-b92b-9c83735bcc68" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/com/pcy/chapter04/ifelse/Demo01.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/com/pcy/chapter04/ifelse/Demo02.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/com/pcy/chapter04/myfor/ForDemo01.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/com/pcy/chapter04/myfor/ForGuardDemo.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/com/pcy/chapter04/myfor/ForUntilDemo02.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/com/pcy/chapter04/myfor/ForVar.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/com/pcy/chapter04/myfor/MultiFor.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/com/pcy/chapter04/myfor/YieldFor.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/com/pcy/chapter04/mywhile/DoWhile.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/com/pcy/chapter04/mywhile/WhileBreak.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/com/pcy/chapter04/mywhile/WhileDemo01.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/smartfox_info.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/com/pcy/chapter05/array/Array01.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/com/pcy/chapter05/array/Array02.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/com/pcy/chapter05/array/Array2ArrayBuffer.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/com/pcy/chapter05/array/ArrayBuffer01.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/com/pcy/chapter05/array/ArrayBuffer2JavaList.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/com/pcy/chapter05/array/MultiplyArray.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScalaStudy.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ScalaStudy.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/com/pcy/chapter04/mywhile/DoWhile.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/com/pcy/chapter04/mywhile/DoWhile.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/pcy/chapter01/docandprint/GenerateDoc$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/pcy/chapter01/docandprint/GenerateDoc$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/pcy/chapter01/docandprint/GenerateDoc.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/pcy/chapter01/docandprint/GenerateDoc.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/pcy/chapter01/docandprint/PrintDemo$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/pcy/chapter01/docandprint/PrintDemo$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/pcy/chapter01/docandprint/PrintDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/pcy/chapter01/docandprint/PrintDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/pcy/chapter01/test/TestScala$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/pcy/chapter01/test/TestScala$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/pcy/chapter01/test/TestScala.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/pcy/chapter01/test/TestScala.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/pcy/chapter01/vars/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/pcy/chapter01/vars/Dog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/pcy/chapter01/vars/VarDemo01$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/pcy/chapter01/vars/VarDemo01$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/pcy/chapter01/vars/VarDemo01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/pcy/chapter01/vars/VarDemo01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/pcy/chapter01/vars/VarDemo02$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/pcy/chapter01/vars/VarDemo02$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/pcy/chapter01/vars/VarDemo02.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/pcy/chapter01/vars/VarDemo02.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -49,6 +59,7 @@
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
@@ -58,7 +69,10 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -77,13 +91,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.WhileBreak">
-    <configuration name="ForDemo01" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.pcy.chapter04.myfor.ForDemo01" />
+  <component name="RunManager" selected="Application.ArrayBuffer2JavaList">
+    <configuration name="Array02" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.pcy.chapter05.array.Array02" />
       <module name="ScalaStudy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.pcy.chapter04.myfor.*" />
+          <option name="PATTERN" value="com.pcy.chapter05.array.ArrayBuffer" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,12 +105,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ForGuardDemo" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.pcy.chapter04.myfor.ForGuardDemo" />
+    <configuration name="Array2ArrayBuffer" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.pcy.chapter05.array.Array2ArrayBuffer" />
       <module name="ScalaStudy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.pcy.chapter04.myfor.*" />
+          <option name="PATTERN" value="com.pcy.chapter05.array.ArrayBuffer" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,12 +118,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ForUntilDemo02" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.pcy.chapter04.myfor.ForUntilDemo02" />
+    <configuration name="ArrayBuffer01" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.pcy.chapter05.array.ArrayBuffer01" />
       <module name="ScalaStudy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.pcy.chapter04.myfor.*" />
+          <option name="PATTERN" value="com.pcy.chapter05.array.ArrayBuffer" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,12 +131,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WhileBreak" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.pcy.chapter04.mywhile.WhileBreak" />
+    <configuration name="ArrayBuffer2JavaList" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.pcy.chapter05.array.ArrayBuffer2JavaList" />
       <module name="ScalaStudy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.pcy.chapter04.mywhile.*" />
+          <option name="PATTERN" value="com.pcy.chapter05.array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,12 +144,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="YieldFor" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.pcy.chapter04.myfor.YieldFor" />
+    <configuration name="MultiplyArray" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.pcy.chapter05.array.MultiplyArray" />
       <module name="ScalaStudy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.pcy.chapter04.myfor.*" />
+          <option name="PATTERN" value="com.pcy.chapter05.array.ArrayBuffer" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -145,11 +159,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.WhileBreak" />
-        <item itemvalue="Application.YieldFor" />
-        <item itemvalue="Application.ForGuardDemo" />
-        <item itemvalue="Application.ForUntilDemo02" />
-        <item itemvalue="Application.ForDemo01" />
+        <item itemvalue="Application.ArrayBuffer2JavaList" />
+        <item itemvalue="Application.Array02" />
+        <item itemvalue="Application.Array2ArrayBuffer" />
+        <item itemvalue="Application.ArrayBuffer01" />
+        <item itemvalue="Application.MultiplyArray" />
       </list>
     </recent_temporary>
   </component>
@@ -166,7 +180,10 @@
       <workItem from="1594141108115" duration="4374000" />
       <workItem from="1594179617298" duration="5027000" />
       <workItem from="1594259153428" duration="599000" />
-      <workItem from="1594304675049" duration="1036000" />
+      <workItem from="1594304675049" duration="3495000" />
+      <workItem from="1594308879087" duration="1041000" />
+      <workItem from="1594309979145" duration="972000" />
+      <workItem from="1594312139027" duration="495000" />
     </task>
     <servers />
   </component>
