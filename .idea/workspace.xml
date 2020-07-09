@@ -2,21 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="46ce95a8-b8d8-45cf-b92b-9c83735bcc68" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/com/pcy/chapter02/datatype/CharDemo.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/com/pcy/chapter02/datatype/DataAutoTransferDemo.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/com/pcy/chapter02/datatype/DataForceTransfer.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/com/pcy/chapter02/datatype/IdenDemo.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/com/pcy/chapter02/datatype/StringDemo.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/com/pcy/chapter02/datatype/TypeDemo01.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/com/pcy/chapter02/datatype/TypeDemo02.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/com/pcy/chapter02/datatype/TypeDemo03.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/com/pcy/chapter02/datatype/UnitNullNothingDemo.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/com/pcy/chapter03/arithoper/Demo01.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/com/pcy/chapter03/arithoper/Demo02.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/com/pcy/chapter03/assignoper/Demo01.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/com/pcy/chapter04/ifelse/Demo01.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/com/pcy/chapter04/ifelse/Demo02.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/com/pcy/chapter04/myfor/ForDemo01.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/com/pcy/chapter04/myfor/ForGuardDemo.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/com/pcy/chapter04/myfor/ForUntilDemo02.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/com/pcy/chapter04/myfor/ForVar.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/com/pcy/chapter04/myfor/MultiFor.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/com/pcy/chapter04/myfor/YieldFor.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/com/pcy/chapter04/mywhile/DoWhile.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/com/pcy/chapter04/mywhile/WhileBreak.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/com/pcy/chapter04/mywhile/WhileDemo01.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/pcy/chapter01/vars/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/pcy/chapter01/vars/Dog.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/pcy/chapter01/vars/VarDemo02$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/pcy/chapter01/vars/VarDemo02$.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -80,13 +77,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Demo01">
-    <configuration name="Demo01" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.pcy.chapter03.assignoper.Demo01" />
+  <component name="RunManager" selected="Application.WhileBreak">
+    <configuration name="ForDemo01" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.pcy.chapter04.myfor.ForDemo01" />
       <module name="ScalaStudy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.pcy.chapter03.assignoper.*" />
+          <option name="PATTERN" value="com.pcy.chapter04.myfor.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,12 +91,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TyepDemo03" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.pcy.chapter02.datatype.TyepDemo03" />
+    <configuration name="ForGuardDemo" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.pcy.chapter04.myfor.ForGuardDemo" />
       <module name="ScalaStudy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.pcy.chapter02.iden.*" />
+          <option name="PATTERN" value="com.pcy.chapter04.myfor.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,12 +104,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TypeDemo02" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.pcy.chapter02.datatype.TypeDemo02" />
+    <configuration name="ForUntilDemo02" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.pcy.chapter04.myfor.ForUntilDemo02" />
       <module name="ScalaStudy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.pcy.chapter02.iden.*" />
+          <option name="PATTERN" value="com.pcy.chapter04.myfor.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,12 +117,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VarDemo01" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.pcy.chapter01.vars.VarDemo01" />
+    <configuration name="WhileBreak" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.pcy.chapter04.mywhile.WhileBreak" />
       <module name="ScalaStudy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.pcy.chapter01.vars.*" />
+          <option name="PATTERN" value="com.pcy.chapter04.mywhile.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,12 +130,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VarDemo02" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.pcy.chapter01.vars.VarDemo02" />
+    <configuration name="YieldFor" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.pcy.chapter04.myfor.YieldFor" />
       <module name="ScalaStudy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.pcy.chapter01.vars.*" />
+          <option name="PATTERN" value="com.pcy.chapter04.myfor.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -148,11 +145,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Demo01" />
-        <item itemvalue="Application.TyepDemo03" />
-        <item itemvalue="Application.TypeDemo02" />
-        <item itemvalue="Application.VarDemo02" />
-        <item itemvalue="Application.VarDemo01" />
+        <item itemvalue="Application.WhileBreak" />
+        <item itemvalue="Application.YieldFor" />
+        <item itemvalue="Application.ForGuardDemo" />
+        <item itemvalue="Application.ForUntilDemo02" />
+        <item itemvalue="Application.ForDemo01" />
       </list>
     </recent_temporary>
   </component>
@@ -167,7 +164,9 @@
       <option name="presentableId" value="Default" />
       <updated>1594141100009</updated>
       <workItem from="1594141108115" duration="4374000" />
-      <workItem from="1594179617298" duration="3082000" />
+      <workItem from="1594179617298" duration="5027000" />
+      <workItem from="1594259153428" duration="599000" />
+      <workItem from="1594304675049" duration="1036000" />
     </task>
     <servers />
   </component>
