@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="46ce95a8-b8d8-45cf-b92b-9c83735bcc68" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/com/pcy/chapter05/map/Map01.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/com/pcy/chapter05/set/Set01.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -71,7 +71,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Map01">
+  <component name="RunManager" selected="Application.Set01">
     <configuration name="List01" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.pcy.chapter05.list.List01" />
       <module name="ScalaStudy" />
@@ -124,12 +124,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Tuple01" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.pcy.chapter05.tuple.Tuple01" />
+    <configuration name="Set01" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.pcy.chapter05.set.Set01" />
       <module name="ScalaStudy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.pcy.chapter05.tuple.*" />
+          <option name="PATTERN" value="com.pcy.chapter05.set.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,11 +139,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Set01" />
         <item itemvalue="Application.Map01" />
         <item itemvalue="Application.Queue01" />
         <item itemvalue="Application.ListBuffer01" />
         <item itemvalue="Application.List01" />
-        <item itemvalue="Application.Tuple01" />
       </list>
     </recent_temporary>
   </component>
@@ -165,7 +165,7 @@
       <workItem from="1594309979145" duration="972000" />
       <workItem from="1594312139027" duration="495000" />
       <workItem from="1594312665170" duration="267000" />
-      <workItem from="1594345085185" duration="6177000" />
+      <workItem from="1594345085185" duration="6729000" />
     </task>
     <servers />
   </component>
