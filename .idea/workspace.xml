@@ -2,28 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="46ce95a8-b8d8-45cf-b92b-9c83735bcc68" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/smartfox_info.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/com/pcy/chapter05/array/Array01.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/com/pcy/chapter05/array/Array02.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/com/pcy/chapter05/array/Array2ArrayBuffer.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/com/pcy/chapter05/array/ArrayBuffer01.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/com/pcy/chapter05/array/ArrayBuffer2JavaList.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/com/pcy/chapter05/array/MultiplyArray.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/com/pcy/chapter05/list/List01.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/com/pcy/chapter05/list/ListBuffer01.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/com/pcy/chapter05/tuple/Tuple01.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ScalaStudy.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ScalaStudy.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/com/pcy/chapter04/mywhile/DoWhile.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/com/pcy/chapter04/mywhile/DoWhile.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/pcy/chapter01/docandprint/GenerateDoc$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/pcy/chapter01/docandprint/GenerateDoc$.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/pcy/chapter01/docandprint/GenerateDoc.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/pcy/chapter01/docandprint/GenerateDoc.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/pcy/chapter01/docandprint/PrintDemo$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/pcy/chapter01/docandprint/PrintDemo$.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/pcy/chapter01/docandprint/PrintDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/pcy/chapter01/docandprint/PrintDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/pcy/chapter01/test/TestScala$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/pcy/chapter01/test/TestScala$.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/pcy/chapter01/test/TestScala.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/pcy/chapter01/test/TestScala.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/pcy/chapter01/vars/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/pcy/chapter01/vars/Dog.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/pcy/chapter01/vars/VarDemo01$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/pcy/chapter01/vars/VarDemo01$.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/pcy/chapter01/vars/VarDemo01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/pcy/chapter01/vars/VarDemo01.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/pcy/chapter01/vars/VarDemo02$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/pcy/chapter01/vars/VarDemo02$.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/pcy/chapter01/vars/VarDemo02.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/pcy/chapter01/vars/VarDemo02.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -91,35 +73,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ArrayBuffer2JavaList">
+  <component name="RunManager" selected="Application.ListBuffer01">
     <configuration name="Array02" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.pcy.chapter05.array.Array02" />
-      <module name="ScalaStudy" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.pcy.chapter05.array.ArrayBuffer" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Array2ArrayBuffer" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.pcy.chapter05.array.Array2ArrayBuffer" />
-      <module name="ScalaStudy" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.pcy.chapter05.array.ArrayBuffer" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ArrayBuffer01" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.pcy.chapter05.array.ArrayBuffer01" />
       <module name="ScalaStudy" />
       <extension name="coverage">
         <pattern>
@@ -144,12 +100,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MultiplyArray" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.pcy.chapter05.array.MultiplyArray" />
+    <configuration name="List01" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.pcy.chapter05.list.List01" />
       <module name="ScalaStudy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.pcy.chapter05.array.ArrayBuffer" />
+          <option name="PATTERN" value="com.pcy.chapter05.list.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ListBuffer01" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.pcy.chapter05.list.ListBuffer01" />
+      <module name="ScalaStudy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.pcy.chapter05.list.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tuple01" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.pcy.chapter05.tuple.Tuple01" />
+      <module name="ScalaStudy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.pcy.chapter05.tuple.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -159,11 +141,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ListBuffer01" />
+        <item itemvalue="Application.List01" />
+        <item itemvalue="Application.Tuple01" />
         <item itemvalue="Application.ArrayBuffer2JavaList" />
         <item itemvalue="Application.Array02" />
-        <item itemvalue="Application.Array2ArrayBuffer" />
-        <item itemvalue="Application.ArrayBuffer01" />
-        <item itemvalue="Application.MultiplyArray" />
       </list>
     </recent_temporary>
   </component>
@@ -184,6 +166,8 @@
       <workItem from="1594308879087" duration="1041000" />
       <workItem from="1594309979145" duration="972000" />
       <workItem from="1594312139027" duration="495000" />
+      <workItem from="1594312665170" duration="267000" />
+      <workItem from="1594345085185" duration="2702000" />
     </task>
     <servers />
   </component>
